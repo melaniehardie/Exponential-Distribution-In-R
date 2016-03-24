@@ -80,7 +80,7 @@ Now, let's review the density function for our sample means. According
 to the Central Limit Theorem, we expect a normal distribution centered
 at the population mean, which is 5.
 
-![](unnamed-chunk-5-1.png)<!-- -->
+![](unnamed-chunk-5-1.png)
 
 By overlaying the normal distribution (red dotted line) on our
 distribution function, we can distinctly see that the distribution for
